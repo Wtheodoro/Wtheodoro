@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [squad-management](https://github.com/Wtheodoro/squad-management)
 
-- 🌱 I’m currently learning **React, advanced Javascript, UI, UX...**
+- 🌱 I’m currently learning **NextJS, UI, UX...**
 
 - 👯 I’m looking to collaborate on **React projects**
 
