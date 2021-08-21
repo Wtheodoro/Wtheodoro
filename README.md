@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="wtheodoro" /> </p>
 
-- 🔭 I’m currently working on [squad-management](https://github.com/Wtheodoro/squad-management)
+- 🔭 I’m currently working on [Oracle](https://www.oracle.com/index.html)
 
 - 🌱 I’m currently learning **NextJS, UI, UX...**
 
