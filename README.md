@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Oracle](https://www.oracle.com/index.html)
 
-- 🌱 I’m currently learning **NextJS, UI, UX...**
-
-- 👯 I’m looking to collaborate on **React projects**
+- 🌱 I’m currently learning **NextJS, UI, GOlang...**
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
