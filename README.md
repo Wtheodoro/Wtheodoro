@@ -1,19 +1,29 @@
-<h1 align="center">Hi 👋, I'm Walison</h1>
-<h3 align="center">A frontend developer</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="wtheodoro" /> </p>
+<p align="left"> 
+  Hello, Walison here. I'm a <strong>Front-End Developer</strong>.<br>
+</p>
 
-- 🔭 I’m currently working on [Oracle](https://www.oracle.com/index.html)
-
-- 🌱 I’m currently learning **NextJS, UI, GOlang...**
-
-<h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/walisonteodoro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Walison Teodoro" height="30" width="40" /></a>
+  🦄 technologies: <strong>React, NextJS, Javascript, Typescript...</strong>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wtheodoro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wtheodoro" /></p>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wtheodoro&show_icons=true&locale=en&theme=tokyonight" alt="wtheodoro" /></p>
+<p align="left">
+  <a href="#" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contact@walisontsx.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walisonteodoro/" /></a>
+
+  <a href="http://walisontsx.com" alt="my website link">
+    <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20website-blueviolet">
+  </a>
+</p>
